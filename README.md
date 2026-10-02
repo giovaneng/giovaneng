@@ -1,7 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=Hello%2C+welcome+to+my+profile!;Giovanni%2C+Dev+Full+Stack;Estudante+de+ADS+na+UNA;CTF+Player;%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=F1F1F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=524&height=170&lines=Hello%2C;Welcome+to+my+profile!;Giovane;Dev+Full+Stack" alt="Typing SVG">
   </a>
+</div>
+
+<div align="center">
+  <img src="./assets/banner-game.svg" alt="Cena de jogo em pixel art" width="100%">
 </div>
 
 #
