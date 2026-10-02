@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=Hello%2C+welcome+to+my+profile!;Giovanni%2C+Dev+Full+Stack;Estudante+de+ADS+na+UNA;CTF+Player;%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
 #
 
-Me chamo Giovane e sou estudante de Análise e Desenvolvimento de Sistemas na UNA, atualmente no 5º período. Gosto de desenvolvimento web, de montar projetos completos para estudar e de participar de competições de CTF (Capture the Flag) de cibersegurança.
+Me chamo Giovane e sou dev full stack em formação. Estudo Análise e Desenvolvimento de Sistemas na UNA, atualmente no 5º período. Gosto de desenvolvimento web, de montar projetos completos para estudar e de participar de competições de CTF (Capture the Flag) de cibersegurança.
 
 #
 
