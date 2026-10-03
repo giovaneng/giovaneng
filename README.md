@@ -6,14 +6,14 @@
 
 #
 
-Me chamo Giovane e sou dev full stack em formação. Estudo Análise e Desenvolvimento de Sistemas na UNA, atualmente no 5º período. Gosto de desenvolvimento web, de montar projetos completos para estudar e de participar de competições de CTF (Capture the Flag) de cibersegurança.
+Giovane, Desenvolvedor Full Stack em formação e estudante de Ciência da Computação. Desenvolvo soluções web e projetos completos, explorando diferentes tecnologias para transformar ideias em aplicações funcionais. Sempre em busca de novos desafios e evolução na programação..
 
 #
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:SEU-EMAIL@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:giovane77gg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/giovanerodriguesp)
 
 
 <h3 align="left">My Stack ~</h3>
